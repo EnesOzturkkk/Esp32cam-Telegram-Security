@@ -9,3 +9,6 @@ Key Features:
 - Real-time notifications via Telegram Bot API.
 - Physical alarm system integration.
 - Automated camera connection recovery.
+
+<img width="800" height="450" alt="download4-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e47dd516-c406-4455-b49e-62851d91df01" />
+
