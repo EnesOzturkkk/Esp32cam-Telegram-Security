@@ -1,0 +1,6 @@
+import cv2                # Library for image processing (OpenCV)
+import numpy as np        # Library for mathematical operations (matrix calculations)
+import time               # Library for tracking time
+import asyncio            # Library for asynchronous operations (Telegram bot)
+import requests           # Library for HTTP requests to trigger the buzzer on ESP32
+from telegram import Bot  # Library for Telegram Bot API
